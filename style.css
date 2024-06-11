@@ -1,0 +1,27 @@
+body{text-align: center; margin:0;}
+#capa {background:linear-gradient(blue ,lightblue,skyblue );
+display:table ; width:100% ; height:100% ;
+}
+#idv{display:table-cell ; vertical-align: middle;}
+.titulo{
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+.hh11{
+  margin-bottom:0px;
+}
+.divi{
+  width: 200px; 
+  height: 6px;
+ background-color:black ; 
+ margin: 3px auto;
+ border-radius: 5px;
+}
+#lista {
+position: fixed;
+top: 0px;
+left: 0px;
+
+}
